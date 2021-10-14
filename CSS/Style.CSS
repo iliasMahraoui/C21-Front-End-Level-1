@@ -1,6 +1,10 @@
-H1 {Color:Red;
+h1 {
+    Color:Black;
+    font-size:medium;
+}
+
+p {Color:Black;
 font-size:medium;}
-p {COlor:Red;
-font-size:medium;}
-.MijnAfbeelding {width:100px;
-    Height:100px;}
+
+.MijnAfbeelding {width:150px;
+    Height:150px;}
