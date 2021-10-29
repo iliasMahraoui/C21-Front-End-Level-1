@@ -1,9 +1,9 @@
 H1 {Color: White;
     Font-Size:40px;
-    }
+   }
 H2 {Color: White;
     Font-Size:40px;
-    }  
+   }  
 H3 {Color: White;
     Font-Size:40px;
    }
@@ -24,25 +24,28 @@ H8 {Color: White;
    }   
 p1 {Color: White;
    Font-size:20px;
-}
+   }
 p2 {Color: White;
     Font-size:20px;
- }
+   }
 p3 {Color: White;
     Font-size:20px;
- }
+   }
 p4 {Color: White;
     Font-size:20px;
- }
+   }
 p5 {Color: White;
     Font-size:20px;
- }
+   }
 p6 {Color: White;
-    Font-size:20px;
- }
+    Font-size:25px;
+   }
 p7 {Color: White;
     Font-size:20px;
- }
+   }
 p8 {Color: White;
     Font-size:20px;
- }
+   }
+.Pro{Color: white;
+    Font-Size:40px;
+   }
